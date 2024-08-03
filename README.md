@@ -76,7 +76,7 @@ Dashboard dibuat pada platform Looker Studio, dan dapat diakses pada [Dashboard 
 ## **Menjalankan Sistem Machine Learning**
 
 ### Mengakses sistem via online
-Prototype sistem machine learning student dropout prediction dapat diakses di: [student dropout prediction]()
+Prototype sistem machine learning student dropout prediction dapat diakses di: [student dropout prediction](https://student-dropout-prediction-and-dashboard.streamlit.app)
 
 ### Menjalankan di lokal
 a. Pastikan Python sudah terinstal di komputer Anda (disarankan Python 3.7+).
