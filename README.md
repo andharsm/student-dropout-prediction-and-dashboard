@@ -1,6 +1,7 @@
 # **Prototype Prediksi & Dashboard Student Dropout Analysis**
 
-![andharsm-dashboard](https://github.com/user-attachments/assets/d557fdfb-ebae-46b9-92b0-d72de7e2ff5c)
+![andharsm-dashboard](https://github.com/user-attachments/assets/88aa203f-146b-4a0c-bccf-469e60474087)
+
 
 ## **Business Understanding**
 
